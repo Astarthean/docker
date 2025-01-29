@@ -4,20 +4,20 @@ Este repositorio contiene varios proyectos que están configurados para ejecutar
 
 ## 📦 Proyectos
 
-- **cron-ticker**: Proyecto que simula una aplicación de cronómetro o temporizador integrado con Docker.
+- [**cron-ticker**](./cron-ticker): Proyecto que simula una aplicación de cronómetro o temporizador integrado con Docker.
 
-- **graphql-actions**: Proyecto enfocado en APIs GraphQL y su integración con Docker y Github Actions.
+- [**graphql-actions**](./graphql-actions): Proyecto enfocado en APIs GraphQL y su integración con Docker y Github Actions.
 
-- **k8s-teslo**: Toma de contacto inicial con Kubernetes para desplegar servicios relacionados con el proyecto Teslo.
+- [**k8s-teslo**](./k8s-teslo): Toma de contacto inicial con Kubernetes para desplegar servicios relacionados con el proyecto Teslo.
 
-- **nest-graphql**: Aplicación backend utilizando NestJS y GraphQL que se integra con Docker.
+- [**nest-graphql**](./nest-graphql): Aplicación backend utilizando NestJS y GraphQL que se integra con Docker.
 
-- **pokemon-app**: Proyecto relacionado con una aplicación de Pokémon, utilizando Docker Compose.
+- [**pokemon-app**](./pokemon-app): Proyecto relacionado con una aplicación de Pokémon, utilizando Docker Compose.
 
-- **postgres-pgadmin**: Contiene configuraciones para PostgreSQL y pgAdmin en Docker.
+- [**postgres-pgadmin**](./postgres-pgadmin): Contiene configuraciones para PostgreSQL y pgAdmin en Docker.
 
-- **react-heroes**: Aplicación basada en React para mostrar datos de héroes con integración de Docker.
+- [**react-heroes**](./react-heroes): Aplicación basada en React para mostrar datos de héroes con integración de Docker.
 
-- **teslo-shop**: Plataforma de compras construida con NestJS y Docker.
+- [**teslo-shop**](./teslo-shop): Plataforma de compras construida con NestJS y Docker.
 
-- **teslo-testing**: Entorno de pruebas para la aplicación Teslo.
+- [**teslo-testing**](./teslo-testing): Entorno de pruebas para la aplicación Teslo.
